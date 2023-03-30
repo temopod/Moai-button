@@ -1,3 +1,2 @@
 # Moai-button
-Button of moai
-HUUuuuuaauaaaaagh
+https://temopod.github.io/Moai-button/
